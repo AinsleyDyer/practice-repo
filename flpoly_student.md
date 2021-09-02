@@ -1,27 +1,27 @@
-## First Name Last Name
+## Ainsley, Dyer
 
-### Term Year 
+### 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Pre-Cal/Trig
 
-- Course 2
+- Intro to Programming with Python
 
-- Course 3
+- Intro to Data Science
 
-- Course 4
+- Foundations for Academic Success
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- I Like to read manga
 
-- Thing 2
+- I like baking
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- I like coding
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/02
